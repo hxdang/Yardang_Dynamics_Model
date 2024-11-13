@@ -26,6 +26,9 @@ The source code includes the following files:
 *The gfortran compiler must be installed before using the model source code.*
 
 ***
+**When using the model code, please cite the associated papers.**
+
+**The Yardang_Dynamics_Model should be used and modified with the understanding that the selected GNU Affero General Public License v3.0 cannot be changed to a "less open source" license. If you incorporate a model into Yardang_Dynamics_Model, it is essential to ensure that all potential future developments of your model code are still open source.**
 
 @Copyright Key Laboratory of Earth System Numerical Modeling and Application, University of Chinese Academy of Sciences, Beijing, China.
 
@@ -33,6 +36,6 @@ All rights reserved.
 
 Created by Haoxuan Dang, 2024.
 
-When using the code, please cite the associated papers.
+
 
 
