@@ -75,7 +75,7 @@ program Yardang_Dynamics_Model
     
     call ini_topography(pi,ia,ja,ia_s,ja_s,lx_s,ly_s,xx_s,yy_s,B)
     
-    ! ½«³õÊ¼µØĞÎÊı¾İĞ´ÈëÎÄ¼ş
+    ! å°†åˆå§‹åœ°å½¢æ•°æ®å†™å…¥æ–‡ä»¶
     open(unit = 10,file = 'result\ini_topography.txt')
     write(10,*) 'xx               yy                 B'
     do i = 1,ia_s+2
